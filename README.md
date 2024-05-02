@@ -17,7 +17,7 @@ All data used in this study is publicly available and can be accessed through th
   
 - **GTDB Marker Genes**: The Genome Taxonomy Database (GTDB) marker genes (release version 207) can be downloaded from [GTDB Release 207](https://data.gtdb.ecogenomic.org/releases/release207/207.0/genomic_files_all/bac120_marker_genes_all_r207.tar.gz).
 
-- **NCBI Assembly Database Accessions**: Accessions for the Listeria assemblies are detailed in [...], which provides essential metadata and sequence information relevant to this genus.
+- **NCBI Assembly Database Accessions**: Accessions for the Listeria assemblies are detailed in [...]. The genomic sequence files could be directly accessed on NCBI. 
 
 
 
