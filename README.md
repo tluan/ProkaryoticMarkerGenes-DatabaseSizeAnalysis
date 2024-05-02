@@ -9,7 +9,7 @@ For many years, the 16S rRNA gene has played a critical role in the taxonomic cl
 
 
 
-# Data Availability
+## Data Availability
 
 All data used in this study is publicly available and can be accessed through the following resources:
 
