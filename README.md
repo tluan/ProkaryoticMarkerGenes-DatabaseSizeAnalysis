@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any queries, please reach out to tluan@umd.edu.
+For any queries, please reach out to tluan at umd dot edu or start a new issue. 
