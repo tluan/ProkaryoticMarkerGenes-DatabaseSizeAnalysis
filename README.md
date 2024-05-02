@@ -1,4 +1,4 @@
-# ProkaryoticMarkers-DatabaseSizeAnalysis
+# ProkaryoticMarkerGenes-DatabaseSizeAnalysis
 
 This repository contains the analysis scripts and data for the research study "Database size positively correlates with the loss of species-level taxonomic resolution for the 16S rRNA and other prokaryotic marker genes". 
 
