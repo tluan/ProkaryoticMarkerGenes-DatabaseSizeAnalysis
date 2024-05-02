@@ -30,9 +30,9 @@ All data used in this study is publicly available and can be accessed through th
 ## Requirements
 
 
-numpy>=1.18.5
-pandas>=1.0.5
-matplotlib>=3.2.2
+- numpy>=1.18.5
+- pandas>=1.0.5
+- matplotlib>=3.2.2
 
 
 ## Authors and Acknowledgements
