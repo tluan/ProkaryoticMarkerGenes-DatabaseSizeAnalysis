@@ -29,7 +29,7 @@ All data used in this study is publicly available and can be accessed through th
 
 ## Requirements
 
-To run the script, please install the following Python library. 
+To run the scripts, please install the following Python library. 
 
 - numpy>=1.18.5
 - pandas>=1.0.5
