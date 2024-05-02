@@ -38,7 +38,7 @@ To run the scripts, please install the following Python library.
 
 ## Authors and Acknowledgements
 
-This study was conducted by Seth Commichaux, Tu Luan, Harihara Subrahmaniam Muralidharan, and Mihai Pop at the University of Maryland.
+This study was conducted by Seth Commichaux, Tu Luan, Harihara Subrahmaniam Muralidharan, and Mihai Pop at the University of Maryland. All authors contributed equally to this study. 
 
 ## License
 
